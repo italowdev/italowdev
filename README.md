@@ -1,56 +1,57 @@
-<div align="center">
+✨
+V2 Available Now!Redesigned UI · More features · Faster performance
+Upgrade to V2 →
+✕
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+24428
+Fork on GitHub
+8403
 
-<!-- ═════════════════════════════════════════════════════════════ -->
-<!--                         SYSTEM BOOT                           -->
-<!-- ═════════════════════════════════════════════════════════════ -->
+back to edit
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:0284c7&height=190&section=header&text=ITALO%20MENDES&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=WEB%20DEVELOPER%20%7C%7C%20SYSTEM%20ONLINE&descAlignY=60&descSize=15&animation=fadeIn"/>
+copy-markdown
 
-<br>
+download markdown
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=720&lines=%5BSYSTEM+BOOT%5D+Initializing+developer+profile...;%5BSYSTEM%5D+Loading+development+modules...;%5BSYSTEM%5D+Connecting+to+GitHub...;%5BSYSTEM%5D+Loading+React+%7C+JavaScript+%7C+TypeScript...;%5BSYSTEM%5D+Loading+Node.js+%7C+HTML5+%7C+CSS3...;%5BSYSTEM%5D+All+systems+operational.;%5BACCESS+GRANTED%5D+Welcome+to+Italo+Mendes%27+GitHub" alt="System Boot"/>
+download backup
 
-<br><br>
+preview
+<h1 align="center">Opa! meu nome é Italo Mendes</h1>
+<h3 align="center">Sou desenvolvedor web e possuo alguns projetos na área!</h3>
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-0284C7?style=for-the-badge&logo=probot&logoColor=white"/>
-<img src="https://img.shields.io/badge/DEVELOPER-ACTIVE-0369A1?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/FOCUS-WEB%20DEVELOPMENT-0EA5E9?style=for-the-badge&logo=react&logoColor=white"/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/italowdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="italowdev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/italo mendes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="italo mendes" height="30" width="40" /></a>
+<a href="https://instagram.com/italomendess_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="italomendess_" height="30" width="40" /></a>
+</p>
 
-<br><br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=flat-square&color=0284C7&label=PROFILE+VIEWS"/>
-
-</div>
-
----
-
-<div align="center">
-
-# `> ITALO MENDES_`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Desenvolvedor+Web;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Transformando+ideias+em+c%C3%B3digo;Building+%7C+Learning+%7C+Evolving" alt="Typing Animation"/>
-
-<br>
-
-`Desenvolvedor Web` &nbsp;•&nbsp; `React` &nbsp;•&nbsp; `JavaScript` &nbsp;•&nbsp; `TypeScript` &nbsp;•&nbsp; `Node.js`
-
-</div>
-
----
-
-# `01 // SOBRE MIM`
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                    DEVELOPER PROFILE                        ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  NAME        → Italo Mendes                                  ║
-║  ROLE        → Web Developer                                 ║
-║  EDUCATION   → Computer Science                              ║
-║  SPECIALTY   → Web Development                               ║
-║  STATUS      → Always Learning                               ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me a Coffee
