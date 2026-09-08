@@ -34,7 +34,7 @@ Gosto de aprender na prática, desenvolvendo projetos e buscando entender não a
 
 <br><br>
 
-### Desenvolvimento Web
+### Frameworks & Desenvolvimento Web
 
 <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs" />
 
@@ -42,7 +42,7 @@ Gosto de aprender na prática, desenvolvendo projetos e buscando entender não a
 
 ### Mobile
 
-<img src="https://skillicons.dev/icons?i=reactnative" />
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 </div>
 
