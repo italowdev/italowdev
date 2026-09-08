@@ -34,7 +34,7 @@ Gosto de aprender na prática, desenvolvendo projetos e buscando entender não a
 
 ### Desenvolvimento Web
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,nodejs" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,python" />
 
 <br><br>
 
