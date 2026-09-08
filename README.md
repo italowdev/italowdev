@@ -26,15 +26,15 @@ Gosto de aprender na prática, desenvolvendo projetos e buscando entender não a
 
 <div align="center">
 
-### Linguagens
+### Front-end
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=react,vite,js,ts,html,css,tailwind" />
 
 <br><br>
 
-### Desenvolvimento Web
+### Back-end
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,python" />
+<img src="https://skillicons.dev/icons?i=,nodejs,python" />
 
 <br><br>
 
