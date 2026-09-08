@@ -43,11 +43,10 @@ Gosto de aprender na prática, desenvolvendo projetos e buscando entender não a
 ### Desenvolvimento Mobile
 
 <img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=react" />
 
 <br>
 
-<sub>React   •   React Native</sub>
+<sub>React Native</sub>
 
 </div>
 
