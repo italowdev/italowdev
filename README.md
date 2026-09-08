@@ -16,8 +16,6 @@
 
 Olá! Eu sou **Italo Mendes**, estudante de **Ciência da Computação** e desenvolvedor web em formação.
 
-Tenho interesse em tecnologia e desenvolvimento de software, principalmente na criação de aplicações **modernas, funcionais e bem estruturadas**.
-
 Atualmente, venho aprimorando meus conhecimentos no desenvolvimento web utilizando **React, JavaScript, TypeScript, Node.js, HTML5, CSS3 e Tailwind CSS**.
 
 Gosto de aprender na prática, desenvolvendo projetos e buscando entender não apenas como uma tecnologia funciona, mas também como utilizá-la para **transformar ideias em soluções reais**.
@@ -46,7 +44,7 @@ Gosto de aprender na prática, desenvolvendo projetos e buscando entender não a
 
 <br>
 
-<sub>React Native</sub>
+<sub>**React Native**</sub>
 
 </div>
 
