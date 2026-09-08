@@ -2,7 +2,7 @@
 
 # 👨‍💻 Italo Mendes
 
-### Estudante de Ciência da Computação • Desenvolvedor Web em Formação
+### Estudante de Ciência da Computação • Desenvolvedor Web
 
 <br>
 
