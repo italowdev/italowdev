@@ -1,10 +1,7 @@
-✨
-
-preview
 <h1 align="center">Opa! meu nome é Italo Mendes</h1>
 <h3 align="center">Sou desenvolvedor web e possuo alguns projetos na área!</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Se conecte comigo!</h3>
 <p align="left">
 <a href="https://twitter.com/italowdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="italowdev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/italo mendes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="italo mendes" height="30" width="40" /></a>
