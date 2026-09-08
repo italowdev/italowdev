@@ -34,7 +34,7 @@ Gosto de aprender na prática, desenvolvendo projetos e buscando entender não a
 
 ### Back-end
 
-<img src="https://skillicons.dev/icons?i=,nodejs,python" />
+<img src="https://skillicons.dev/icons?i=expressjs,nodejs,python" />
 
 <br><br>
 
