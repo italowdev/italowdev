@@ -2,11 +2,11 @@
 
 # 👨‍💻 Italo Mendes
 
-### `Computer Science Student` • `Web Developer in Formation`
+### Estudante de Ciência da Computação • Desenvolvedor Web em Formação
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=italowdev&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=italowdev&style=for-the-badge&color=0EA5E9&label=VISITAS+AO+PERFIL"/>
 
 </div>
 
@@ -34,15 +34,20 @@ Gosto de aprender na prática, desenvolvendo projetos e buscando entender não a
 
 <br><br>
 
-### Frameworks & Desenvolvimento Web
+### Desenvolvimento Web
 
 <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs" />
 
 <br><br>
 
-### Mobile
+### Desenvolvimento Mobile
 
-<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=react" />
+
+<br>
+
+<sub>React   •   React Native</sub>
 
 </div>
 
@@ -52,7 +57,7 @@ Gosto de aprender na prática, desenvolvendo projetos e buscando entender não a
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,npm" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
 
 </div>
 
@@ -60,25 +65,22 @@ Gosto de aprender na prática, desenvolvendo projetos e buscando entender não a
 
 ## 🎯 Atualmente
 
-```text
-┌──────────────────────────────────────────────────────┐
-│                    CURRENT FOCUS                     │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│  ▸ Aprimorar desenvolvimento web                     │
-│  ▸ Evoluir com React e TypeScript                    │
-│  ▸ Desenvolver aplicações modernas                   │
-│  ▸ Aprender desenvolvimento mobile                   │
-│  ▸ Explorar React Native                             │
-│  ▸ Transformar ideias em projetos reais              │
-│  ▸ Continuar evoluindo como desenvolvedor            │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+| Área | Foco                                                |
+| :--: | :-------------------------------------------------- |
+|  🌐  | Aprimorar meus conhecimentos em desenvolvimento web |
+|  ⚛️  | Evoluir com React e TypeScript                      |
+|  📱  | Aprender desenvolvimento mobile com React Native    |
+|  💡  | Criar aplicações modernas e funcionais              |
+|  🚀  | Transformar ideias em projetos reais                |
+|  📚  | Continuar evoluindo como desenvolvedor              |
+
+</div>
 
 ---
 
-## 📊 GitHub
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
@@ -98,7 +100,7 @@ Gosto de aprender na prática, desenvolvendo projetos e buscando entender não a
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Conquistas
 
 <div align="center">
 
@@ -130,17 +132,12 @@ Gosto de aprender na prática, desenvolvendo projetos e buscando entender não a
 
 <div align="center">
 
-### ⚡ `BUILD • LEARN • EVOLVE`
+### ⚡ Construir • Aprender • Evoluir
 
 <br>
 
 <sub>
-Computer Science Student • Web Developer in Formation
+Estudante de Ciência da Computação • Desenvolvedor Web em Formação
 </sub>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/STATUS-LEARNING-0EA5E9?style=flat-square"/>
-<img src="https://img.shields.io/badge/FOCUS-WEB%20%26%20MOBILE-111827?style=flat-square"/>
 
 </div>
