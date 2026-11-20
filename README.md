@@ -2,7 +2,7 @@
 
 # 👨‍💻 Italo Mendes
 
-### Estudante de Ciência da Computação • Desenvolvedor Web
+### Estudante de Ciência da Computação • Data Analyst
 
 <br>
 
@@ -14,9 +14,9 @@
 
 ## 💫 Sobre Mim
 
-Olá! Eu sou **Italo Mendes**, estudante de **Ciência da Computação** e desenvolvedor web em formação.
+Olá! Eu sou **Italo Mendes**, estudante de **Ciência da Computação** e analista de dados em formação.
 
-Atualmente, venho aprimorando meus conhecimentos no desenvolvimento web utilizando **React, JavaScript, TypeScript, Node.js, HTML5, CSS3 e Tailwind CSS**.
+Atualmente, venho aprimorando meus conhecimentos no desenvolvimento web utilizando **Excel, Power BI, SQL, Pyhton, Pandas, AWS.**.
 
 Gosto de aprender na prática, desenvolvendo projetos e buscando entender não apenas como uma tecnologia funciona, mas também como utilizá-la para **transformar ideias em soluções reais**.
 
@@ -26,29 +26,10 @@ Gosto de aprender na prática, desenvolvendo projetos e buscando entender não a
 
 <div align="center">
 
-### Front-end
+### DADOS
 
-<img src="https://skillicons.dev/icons?i=react,vite,js,ts,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=excel,powerbi,python,pandas,aws," />
 
-<br><br>
-
-### Back-end
-
-<img src="https://skillicons.dev/icons?i=expressjs,nodejs,python" />
-
-<br><br>
-
-### Desenvolvimento Mobile
-
-<img src="https://skillicons.dev/icons?i=react" />
-
-<br>
-
-<sub>**React Native**</sub>
-
-</div>
-
----
 
 ## 🛠️ Ferramentas
 
@@ -64,14 +45,14 @@ Gosto de aprender na prática, desenvolvendo projetos e buscando entender não a
 
 <div align="center">
 
-| Área | Foco                                                |
+| Área | Foco |
 | :--: | :-------------------------------------------------- |
-|  🌐  | Aprimorar meus conhecimentos em desenvolvimento web |
-|  ⚛️  | Evoluir com React e TypeScript                      |
-|  📱  | Aprender desenvolvimento mobile com React Native    |
-|  💡  | Criar aplicações modernas e funcionais              |
-|  🚀  | Transformar ideias em projetos reais                |
-|  📚  | Continuar evoluindo como desenvolvedor              |
+| 📊 | Desenvolver minhas habilidades em Análise de Dados |
+| 🐍 | Aprimorar meus conhecimentos em Python e Pandas |
+| 📈 | Criar dashboards e relatórios interativos com Power BI |
+| 🗄️ | Aprender e evoluir com SQL e bancos de dados |
+| 💡 | Transformar dados em insights para solucionar problemas |
+| 🚀 | Desenvolver projetos reais e construir meu portfólio profissional |
 
 </div>
 
@@ -134,7 +115,7 @@ Gosto de aprender na prática, desenvolvendo projetos e buscando entender não a
 <br>
 
 <sub>
-Estudante de Ciência da Computação • Desenvolvedor Web em Formação
+Estudante de Ciência da Computação • Analista de Dados em Formação
 </sub>
 
 </div>
