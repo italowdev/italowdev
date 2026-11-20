@@ -16,7 +16,7 @@
 
 Olá! Eu sou **Italo Mendes**, estudante de **Ciência da Computação** e analista de dados em formação.
 
-Atualmente, venho aprimorando meus conhecimentos no desenvolvimento web utilizando **Excel, Power BI, SQL, Pyhton, Pandas, AWS.**.
+Atualmente, venho aprimorando meus conhecimentos no desenvolvimento web utilizando **Excel, Power BI, SQL, Pyhton, Pandas, AWS.**
 
 Gosto de aprender na prática, desenvolvendo projetos e buscando entender não apenas como uma tecnologia funciona, mas também como utilizá-la para **transformar ideias em soluções reais**.
 
@@ -28,7 +28,7 @@ Gosto de aprender na prática, desenvolvendo projetos e buscando entender não a
 
 ### DADOS
 
-<img src="https://skillicons.dev/icons?i=mysql,python,aws" />
+<img src="https://skillicons.dev/icons?i=sqlserver,python,aws" />
 
 
 ## 🛠️ Ferramentas
