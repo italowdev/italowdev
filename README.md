@@ -28,7 +28,7 @@ Gosto de aprender na prática, desenvolvendo projetos e buscando entender não a
 
 ### DADOS
 
-<img src="https://skillicons.dev/icons?i=sqlite,python,aws" />
+<img src="https://skillicons.dev/icons?i=mysql,python,aws" />
 
 
 ## 🛠️ Ferramentas
